@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/ryanholte/allthethingsdata#readme",
   "dependencies": {
-    "hapi": "^17.2.0"
+    "bookshelf": "^0.12.1",
+    "boom": "^7.1.1",
+    "hapi": "^17.2.0",
+    "knex": "^0.13.0",
+    "lingo": "0.0.5",
+    "pg": "^7.4.1"
   }
 }
