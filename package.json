@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ryanholte/allthethingsdata/issues"
   },
-  "homepage": "https://github.com/ryanholte/allthethingsdata#readme"
+  "homepage": "https://github.com/ryanholte/allthethingsdata#readme",
+  "dependencies": {
+    "hapi": "^17.2.0"
+  }
 }
