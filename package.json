@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ryanholte/allthethingsdata#readme",
   "dependencies": {
-    "bookshelf": "^0.12.1",
+    "bookshelf": "^0.13.3",
     "boom": "^7.1.1",
     "bottlejs": "^1.7.1",
     "hapi": "^17.2.0",
